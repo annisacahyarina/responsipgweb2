@@ -14,12 +14,15 @@ Gudeg telah dikenal oleh masyarakat Indonesia khususnya sebagai makanan khas dar
 - Xampp: sebagai server lokal yang sudah mencakup program Apache, MySQL, dan PHP
 
 <h2>Sumber data:</h2>
-- Data shapefile wilayah administrasi DIY
+<ul>
+<il> Data shapefile wilayah administrasi DIY</il>
 - Data statistik Bappeda DIY tahun 2023
 - Titik lokasi restoran gudeg di Jogja yang diambil dari Google Maps dan Google Earth
 - Database Titik lokasi restoran gudeg di luar Jogja 
+</ul>
 
 <h2>Tangkapan layar komponen penting produk:</h2>
 - landing page
+
 
 
