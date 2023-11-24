@@ -26,7 +26,7 @@ Gudeg telah dikenal oleh masyarakat Indonesia khususnya sebagai makanan khas dar
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
   <li>Landing page</li><br><img src = "assets/img/referensi/landingpage.png" width = "500">
-   <li>Peta persebaran restoran gudeg</li><br><img src = "assets/img/referensi/peta1.png" width = "500">
+   <li>Peta persebaran restoran gudeg</li><br><img src = "assets/img/referensi/peta.png" width = "500">
    <li>Basisdata PHPMyAdmin</li><br><img src = "assets/img/referensi/database.png" width = "500">
   <img src = "assets/img/referensi/database2.png" width = "500">
 </ul>
